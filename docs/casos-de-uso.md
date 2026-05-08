@@ -1,17 +1,1 @@
-# Diagrama de Casos de Uso (Visão Geral)
-
-Atores
-• Funcionário/Administrador
-• Espectador
-• Casos de Uso
-
-Funcionário/Administrador
-• Cadastrar Cinema
-• Cadastrar Filme
-• Cadastrar Sessão
-• Registrar Público
-• Consultar Relatórios
-
-Espectador
-• Consultar Filmes
-• Consultar Sessões
+<img width="511" height="640" alt="image" src="https://github.com/user-attachments/assets/e1185195-c48c-48b0-8159-df6a021fa65c" />
